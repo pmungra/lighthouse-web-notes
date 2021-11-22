@@ -1,8 +1,7 @@
-# Parth's Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+<h1> Parth's Notes
 
-## Summary 
+<h2>Summary
+<hr>
 
 This repository contains all of the notes taken by [Parth](https://github.com/pmungra) for the [Lighthouse](https://www.lighthouselabs.ca/) Labs Web Development Bootcamp.
 
